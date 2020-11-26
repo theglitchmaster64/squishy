@@ -1,0 +1,2 @@
+# squishy
+learning compression
