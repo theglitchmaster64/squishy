@@ -4,8 +4,8 @@ import os
 
 if __name__=='__main__':
     print('sup')
-    uniform_orig = open('uniform.bin','rb').read()
-    random_orig = open('random.bin','rb').read()
+    uniform_orig = open('../uniform.bin','rb').read()
+    random_orig = open('../random.bin','rb').read()
 
     random_cmp = compress(random_orig)
     uniform_cmp = compress(uniform_orig)
