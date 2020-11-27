@@ -1,0 +1,6 @@
+1024	./random.bin
+1024	./uniform.bin
+1032	rle/random_cmp.bin
+1024	rle/random_dcmp.bin
+15	rle/uniform_cmp.bin
+1024	rle/uniform_dcmp.bin
